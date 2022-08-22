@@ -4,7 +4,7 @@ This is a repository containing R code for the model _WSMGP_ proposed by the pap
 
 Multi-output regression seeks to estimate multiple unknown or latent functions for observations arising from a known number of outputs/groups. Relative to a separate regression for each group, multi-output regression is statistically appealing as it can borrow strength by exploiting potential between-group similarities resulting in improved learning and prediction accuracy. One fundamental assumption of classical multi-output regression is that the group labels of all observations are given. However, this assumption may not hold if label information is sensitive or expensive to obtain. 
 
-We develop an approach to address the issue. Specifically, we build a Gaussian process (GP)-based probabilistic model for multi-output regression, providing improved prediction by leveraging both labeled and unlabeled observations, as well as correlation across groups. Please see the [paper](https://pubsonline.informs.org/doi/10.1287/ijds.2022.0018) for more details about the model and its applications in healthcare. 
+We develop an approach to address the issue. Specifically, we build a Gaussian process (GP)-based probabilistic model for multi-output regression, providing improved prediction by leveraging both labeled and unlabeled observations, as well as correlation across groups. Please see the [paper](https://pubsonline.informs.org/doi/10.1287/ijds.2022.0018) for more details about the model and its application in healthcare. 
 
 
 ## Usage
