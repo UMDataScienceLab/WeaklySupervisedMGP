@@ -17,5 +17,15 @@ The code generates training data and implements WSMGP that estimates predictive 
 
 <img src="wsmgp.png" alt="drawing" width="700"/>
 
+When you use this code, please cite the paper as follows:
+```
+@article{chung2022weakly,
+  title={Weakly Supervised Multi-output Regression via Correlated Gaussian Processes},
+  author={Chung, Seokhyun and Al Kontar, Raed and Wu, Zhenke},
+  journal={INFORMS Journal on Data Science},
+  year={2022},
+  publisher={INFORMS}
+}
+```
 
-
+## Usage
