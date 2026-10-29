@@ -23,6 +23,9 @@ When you use this code, please cite the paper as follows:
   title={Weakly Supervised Multi-output Regression via Correlated Gaussian Processes},
   author={Chung, Seokhyun and Al Kontar, Raed and Wu, Zhenke},
   journal={INFORMS Journal on Data Science},
+  volume={1},
+  number={2},
+  pages={115--137},
   year={2022},
   publisher={INFORMS}
 }
